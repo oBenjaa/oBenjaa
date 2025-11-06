@@ -7,7 +7,7 @@
 
 
 ### Gostaria de aprender:
-[![Future](https://skillicons.dev/icons?i=java,kotlin,cs,rust,spring,mysql,docker,ae,ph,idea,webstorm,linux)](https://skillicons.dev)
+[![Future](https://skillicons.dev/icons?i=java,kotlin,cs,rust,neovim,spring,mysql,docker,ae,ps,idea,webstorm,linux)](https://skillicons.dev)
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBenjaa&theme=dark&layout=compact&show_icons=true&count-private=true&exclude_repo=caseirinhos-amalia,viqueze-landing-hub,viqueze-v0,MoonlightBot-docs" min-width="400px" max-width="400px" width="400px" align="right">
 </div>
