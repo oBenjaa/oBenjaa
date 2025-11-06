@@ -8,11 +8,7 @@
 
 ### Gostaria de aprender:
 [![Future](https://skillicons.dev/icons?i=java,kotlin,cs,rust,neovim,spring,vue,docker,mysql,ps,ae,aws,linux)](https://skillicons.dev)
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBenjaa&theme=dark&layout=compact&show_icons=true&count-private=true&exclude_repo=caseirinhos-amalia,viqueze-landing-hub,viqueze-v0,MoonlightBot-docs" min-width="400px" max-width="400px" width="400px" align="right">
-</div>
-
-<div align="center">
   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBenjaa&theme=dark&layout=compact&show_icons=true&count-private=true&exclude_repo=caseirinhos-amalia,viqueze-landing-hub,viqueze-v0,MoonlightBot-docs" min-width="400px" max-width="400px" width="400px" align="right">
+
   <img src="https://github-readme-stats.vercel.app/api?username=oBenjaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues" min-width="400px" max-width="400px" width="400px" align="right">
-</div>
