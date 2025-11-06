@@ -1,4 +1,4 @@
-## 🚀 **Benja**
+##  **Benja**
 
 ```Software Engineering | Back-end```
 
