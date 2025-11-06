@@ -3,7 +3,7 @@
 ```Software Engineering | Back-end```
 
 ### Linguagens e Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,electron,tailwind,mongodb,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,electron,tailwind,mongodb,github,git,vscode)](https://skillicons.dev)
 
 
 ### Gostaria de aprender:
