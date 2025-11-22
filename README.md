@@ -15,7 +15,5 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBenjaa&theme=dark&layout=compact&show_icons=true&count-private=true&exclude_repo=caseirinhos-amalia,viqueze-landing-hub,viqueze-v0,MoonlightBot-docs" alt="Most Used Languages"/>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1323877235190665259?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/1323877235190665259)
-
 [![EMAIL](https://skillicons.dev/icons?i=gmail)](benjaminbasilio50@gmail.com)
 [![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1323877235190665259)
