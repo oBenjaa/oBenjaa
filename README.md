@@ -8,7 +8,7 @@
 ---
 
 ### Gostaria de aprender:
-[![Future](https://skillicons.dev/icons?i=java,kotlin,cs,rust,neovim,spring,vue,docker,mysql,aws,idea,ps,ae,linux)](https://skillicons.dev)
+[![Future](https://skillicons.dev/icons?i=java,kotlin,cs,rust,neovim,spring,vue,docker,mysql,aws,idea,linux,ps,ae)](https://skillicons.dev)
 
 ---
 
