@@ -17,9 +17,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oBenjaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBenjaa&theme=dark&layout=compact&show_icons=true&count-private=true&exclude_repo=caseirinhos-amalia,viqueze-landing-hub,viqueze-v0,MoonlightBot-docs"/>
 </div>
-
----
-
-### 📬 Onde me encontrar
-[![EMAIL](https://skillicons.dev/icons?i=gmail)](mailto:benjaminbasilio50@gmail.com)
-[![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1323877235190665259)
