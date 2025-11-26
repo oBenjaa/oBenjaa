@@ -13,7 +13,3 @@
 ---
 
 ### 
-<div align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oBenjaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBenjaa&theme=dark&layout=compact&show_icons=true&count-private=true&cache_seconds=0"/>
-</div>
