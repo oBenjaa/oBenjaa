@@ -1,6 +1,6 @@
 ## Benjamin
 
-```Software Engineering | Back-end```  
+```Software Engineering | Back-end```
 
 ### Linguagens e Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,electron,tailwind,mongodb,github,git,vscode)](https://skillicons.dev)
@@ -12,8 +12,8 @@
 
 ---
 
-### 
-<div align="left">
+###
+<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oBenjaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBenjaa2&theme=dark&layout=compact&show_icons=true&count-private=true&exclude_repo=caseirinhos-amalia,viqueze-landing-hub,viqueze-v0,MoonlightBot-docs" min-width="400px" max-width="400px" width="400px" align="right">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBenjaa&layout=compact&theme=dark&count_private=true&show_icons=true"/>
 </div>
