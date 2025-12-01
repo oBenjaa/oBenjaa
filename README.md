@@ -9,11 +9,3 @@
 
 ### Gostaria de aprender:
 [![Future](https://skillicons.dev/icons?i=java,cs,go,rust,neovim,spring,vue,docker,mysql,aws,idea,ps,ae)](https://skillicons.dev)
-
----
-
-###
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oBenjaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBenjaa&layout=compact&theme=dark&count_private=true&show_icons=true"/>
-</div>
