@@ -8,4 +8,4 @@
 ---
 
 ### Gostaria de aprender:
-[![Future](https://skillicons.dev/icons?i=java,cs,go,rust,neovim,spring,vue,docker,mysql,aws,idea,ps,ae)](https://skillicons.dev)
+[![Future](https://skillicons.dev/icons?i=java,cs,go,rust,neovim,spring,vue,nextjs,mysql,aws,idea,ps,ae)](https://skillicons.dev)
