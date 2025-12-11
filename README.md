@@ -3,4 +3,4 @@
 ```Software Engineering | Back-end```
 
 ### Stacks:
-[![My Skills](https://skillicons.dev/icons?i=ts,python,java,react,nodejs,mongodb,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,java,next,react,nodejs,sql,mongodb,github,git,docker)](https://skillicons.dev)
