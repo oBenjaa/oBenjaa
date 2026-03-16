@@ -7,5 +7,4 @@
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=oBenjaa&theme=blue-green&hide_border=false&cache_seconds=1800)
-![](https://github-readme-streak-stats.herokuapp.com/?user=oBenjaa&theme=blue-green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oBenjaa&theme=blue-green&layout=compact&cache_seconds=1800)
