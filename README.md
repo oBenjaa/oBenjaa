@@ -9,5 +9,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=oBenjaa&theme=blue-green&hide_border=false&cache_seconds=1800)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oBenjaa&theme=blue-green&layout=compact&cache_seconds=1800)
 
-### Socials
+### Socials:
 [![Discord Presence](https://lanyard.cnrad.dev/api/1323877235190665259?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/1323877235190665259)
