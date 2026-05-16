@@ -2,9 +2,9 @@
 
 ```Software Engineering | Back-end```
 
-### Stacks:
-[![My Skills](https://skillicons.dev/icons?i=ts,go,cs,swift,rust,java,spring,nodejs,react,tailwind,mysql,postgresql,mongodb,git,ae)](https://skillicons.dev)
-
-### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oBenjaa&theme=blue-green&hide_border=false&cache_seconds=1800)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oBenjaa&theme=blue-green&layout=compact&cache_seconds=1800)
+### Languages:
+[![My Skills](https://skillicons.dev/icons?i=ts,go,cs,swift,rust,java)](https://skillicons.dev)
+### Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,react,tailwind,prisma)](https://skillicons.dev)
+### Database:
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,aws,gcp,azure)](https://skillicons.dev)
