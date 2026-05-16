@@ -9,4 +9,4 @@
 ### Database:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,gcp,azure)](https://skillicons.dev)
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=,docker,git,cloudflare,vercel,github,vscode,idea,linux,ae,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,cloudflare,vercel,github,vscode,idea,linux,ae,ps)](https://skillicons.dev)
