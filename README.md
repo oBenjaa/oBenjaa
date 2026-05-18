@@ -5,7 +5,7 @@
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=ts,go,cs,swift,rust,java)](https://skillicons.dev)
 ### Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,next,react,tailwind,prisma,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,next,electron,react,tailwind,prisma,bootstrap)](https://skillicons.dev)
 ### Database:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,gcp,azure,redis)](https://skillicons.dev)
 ### Tools:
