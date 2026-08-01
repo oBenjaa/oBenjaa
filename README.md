@@ -7,6 +7,6 @@
 ### Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=spring,nodejs,next,electron,react,tailwind,prisma,bootstrap)](https://skillicons.dev)
 ### Database:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,gcp,azure,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,)](https://skillicons.dev)
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=docker,git,cloudflare,vercel,github,vscode,idea,linux,ae,ps,)](https://skillicons.dev)
